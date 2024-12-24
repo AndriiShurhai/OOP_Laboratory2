@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56573EEB-CAE6-4387-A434-590080F335AD}|Laba_2\\Laba_2.csproj|f:\\second course\\oop\\laboratory2\\laba_2\\laba_2\\mytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56573EEB-CAE6-4387-A434-590080F335AD}|Laba_2\\Laba_2.csproj|solutionrelative:laba_2\\mytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56573EEB-CAE6-4387-A434-590080F335AD}|Laba_2\\Laba_2.csproj|f:\\second course\\oop\\laboratory2\\laba_2\\laba_2\\laba_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{56573EEB-CAE6-4387-A434-590080F335AD}|Laba_2\\Laba_2.csproj|solutionrelative:laba_2\\laba_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5D1F81-20C6-4DB7-BF82-7DDE8E5AFB43}|MatrixCreationTests\\MatrixCreationTests.csproj|f:\\second course\\oop\\laboratory2\\laba_2\\matrixcreationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5D1F81-20C6-4DB7-BF82-7DDE8E5AFB43}|MatrixCreationTests\\MatrixCreationTests.csproj|solutionrelative:matrixcreationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56573EEB-CAE6-4387-A434-590080F335AD}|Laba_2\\Laba_2.csproj|f:\\second course\\oop\\laboratory2\\laba_2\\laba_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56573EEB-CAE6-4387-A434-590080F335AD}|Laba_2\\Laba_2.csproj|solutionrelative:laba_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56573EEB-CAE6-4387-A434-590080F335AD}|Laba_2\\Laba_2.csproj|f:\\second course\\oop\\laboratory2\\laba_2\\laba_2\\matrixdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56573EEB-CAE6-4387-A434-590080F335AD}|Laba_2\\Laba_2.csproj|solutionrelative:laba_2\\matrixdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56573EEB-CAE6-4387-A434-590080F335AD}|Laba_2\\Laba_2.csproj|f:\\second course\\oop\\laboratory2\\laba_2\\laba_2\\matrixoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56573EEB-CAE6-4387-A434-590080F335AD}|Laba_2\\Laba_2.csproj|solutionrelative:laba_2\\matrixoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyTime.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\Laba_2\\MyTime.cs",
+              "RelativeDocumentMoniker": "Laba_2\\MyTime.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\Laba_2\\MyTime.cs",
+              "RelativeToolTip": "Laba_2\\MyTime.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvwQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:24:39.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatrixOperations.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\Laba_2\\MatrixOperations.cs",
+              "RelativeDocumentMoniker": "Laba_2\\MatrixOperations.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\Laba_2\\MatrixOperations.cs",
+              "RelativeToolTip": "Laba_2\\MatrixOperations.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:59:51.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\MatrixCreationTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MatrixCreationTests\\UnitTest1.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\MatrixCreationTests\\UnitTest1.cs",
+              "RelativeToolTip": "MatrixCreationTests\\UnitTest1.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAmwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:30:44.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laba_2.csproj",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\Laba_2\\Laba_2.csproj",
+              "RelativeDocumentMoniker": "Laba_2\\Laba_2.csproj",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\Laba_2\\Laba_2.csproj",
+              "RelativeToolTip": "Laba_2\\Laba_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T09:28:57.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\Laba_2\\Program.cs",
+              "RelativeDocumentMoniker": "Laba_2\\Program.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\Laba_2\\Program.cs",
+              "RelativeToolTip": "Laba_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:20:03.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatrixData.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\Laba_2\\MatrixData.cs",
+              "RelativeDocumentMoniker": "Laba_2\\MatrixData.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory2\\Laba_2\\Laba_2\\MatrixData.cs",
+              "RelativeToolTip": "Laba_2\\MatrixData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:20:02.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

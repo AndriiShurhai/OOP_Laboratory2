@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Second course\\OOP\\Laboratory2\\MatrixCreationTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC1B282-A239-4FEE-9CF4-F124F68C0816}|MatrixCreationTests\\MatrixCreationTests.csproj|f:\\second course\\oop\\laboratory2\\matrixcreationtests\\matrixcreationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC1B282-A239-4FEE-9CF4-F124F68C0816}|MatrixCreationTests\\MatrixCreationTests.csproj|solutionrelative:matrixcreationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory2\\MatrixCreationTests\\MatrixCreationTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MatrixCreationTests\\UnitTest1.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory2\\MatrixCreationTests\\MatrixCreationTests\\UnitTest1.cs",
+              "RelativeToolTip": "MatrixCreationTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:25:51.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

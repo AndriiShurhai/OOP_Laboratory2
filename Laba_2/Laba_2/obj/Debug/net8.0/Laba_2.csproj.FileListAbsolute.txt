@@ -1,0 +1,14 @@
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\bin\Debug\net8.0\Laba_2.exe
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\bin\Debug\net8.0\Laba_2.deps.json
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\bin\Debug\net8.0\Laba_2.runtimeconfig.json
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\bin\Debug\net8.0\Laba_2.dll
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\bin\Debug\net8.0\Laba_2.pdb
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\obj\Debug\net8.0\Laba_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\obj\Debug\net8.0\Laba_2.AssemblyInfoInputs.cache
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\obj\Debug\net8.0\Laba_2.AssemblyInfo.cs
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\obj\Debug\net8.0\Laba_2.csproj.CoreCompileInputs.cache
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\obj\Debug\net8.0\Laba_2.dll
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\obj\Debug\net8.0\refint\Laba_2.dll
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\obj\Debug\net8.0\Laba_2.pdb
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\obj\Debug\net8.0\Laba_2.genruntimeconfig.cache
+F:\Second course\OOP\Laboratory2\Laba_2\Laba_2\obj\Debug\net8.0\ref\Laba_2.dll

@@ -1,0 +1,14 @@
+F:\Second course\OOP\Chess\ChessGame\ChessGame\bin\Debug\net8.0\ChessGame.exe
+F:\Second course\OOP\Chess\ChessGame\ChessGame\bin\Debug\net8.0\ChessGame.deps.json
+F:\Second course\OOP\Chess\ChessGame\ChessGame\bin\Debug\net8.0\ChessGame.runtimeconfig.json
+F:\Second course\OOP\Chess\ChessGame\ChessGame\bin\Debug\net8.0\ChessGame.dll
+F:\Second course\OOP\Chess\ChessGame\ChessGame\bin\Debug\net8.0\ChessGame.pdb
+F:\Second course\OOP\Chess\ChessGame\ChessGame\obj\Debug\net8.0\ChessGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Second course\OOP\Chess\ChessGame\ChessGame\obj\Debug\net8.0\ChessGame.AssemblyInfoInputs.cache
+F:\Second course\OOP\Chess\ChessGame\ChessGame\obj\Debug\net8.0\ChessGame.AssemblyInfo.cs
+F:\Second course\OOP\Chess\ChessGame\ChessGame\obj\Debug\net8.0\ChessGame.csproj.CoreCompileInputs.cache
+F:\Second course\OOP\Chess\ChessGame\ChessGame\obj\Debug\net8.0\ChessGame.dll
+F:\Second course\OOP\Chess\ChessGame\ChessGame\obj\Debug\net8.0\refint\ChessGame.dll
+F:\Second course\OOP\Chess\ChessGame\ChessGame\obj\Debug\net8.0\ChessGame.pdb
+F:\Second course\OOP\Chess\ChessGame\ChessGame\obj\Debug\net8.0\ChessGame.genruntimeconfig.cache
+F:\Second course\OOP\Chess\ChessGame\ChessGame\obj\Debug\net8.0\ref\ChessGame.dll
